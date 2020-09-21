@@ -18,9 +18,9 @@ class App extends Component {
         <div id="container-wrap">
          	<Navigator></Navigator>
 				<div id="colorlib-main">
-					{/* <Intro></Intro>
+					<Intro></Intro>
 					<About></About>
-					<Experience></Experience> */}
+				  <Experience></Experience>
           <Contact></Contact>
           	</div>
       	</div>

@@ -15,9 +15,9 @@ class Navigator extends Component {
                         <nav id="colorlib-main-menu" role="navigation" className="navbar">
                             <div id="navbar" className="collapse">
                                 <ul>
-                                    <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
+                                    <li className="active"><a href="#home" data-nav-section="home">Home</a></li>
                                     <li><a href="#about" data-nav-section="about">About</a></li>
-                                    <li><a href="#" data-nav-section="about">Experience</a></li>
+                                    <li><a href="#experience" data-nav-section="experience">Experience</a></li>
                                     <li><a href="#" data-nav-section="about">Education</a></li>
                                     <li><a href="#" data-nav-section="about">Projects</a></li>
                                     <li><a href="#" data-nav-section="about">Skills</a></li>
@@ -30,21 +30,10 @@ class Navigator extends Component {
                                 </ul>
                             </div>
                         </nav>
-                        {/* <nav id="colorlib-main-menu">
-                            <ul>
-                                <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                                <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                                <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                                <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                            </ul>
-                        </nav> */}
                         <div className="colorlib-footer">
                             <p>
                                 Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br> 
                             </p>
-                            <p><small>
-                                Something coming soon !!
-                            </small></p>
                         </div>
                     </aside>
                 </div>
