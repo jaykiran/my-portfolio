@@ -13,8 +13,10 @@ class About extends Component {
                                         <div className="about-desc">
                                             <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
-                                            <p><strong>I'm Jayakiran</strong> from Srikakulam District, Andhra Pradesh. <br />I am a 2020 Electronics and Communication Graduate from Indian Institute of Information Technology Nagpur.</p>
-                                            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                                            <p>Hello! I'm Jayakiran from Srikakulam District, Andhra Pradesh. <br />I have Completed my Bachelors from <a href="https://iiitn.ac.in/">IIIT Nagpur</a> in Electronics and Communication Engineering (2016 - 2020)</p>
+                                            <p>
+                                                I'm Primarly interested in Frontend Developemnt and Mobile App development using cross platform frameworks.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>

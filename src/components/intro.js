@@ -7,7 +7,7 @@ class Intro extends Component {
                 <section id="colorlib-hero" className="js-fullheight" data-section="home">
                     <div className="flexslider js-fullheight">
                         <ul className="slides">
-                        <li style={{backgroundImage: "url(images/img_bg_1.jpg)"}}>
+                        <li style={{backgroundImage: "url(images/img_bg_5.jpg)"}}>
                             <div className="overlay"></div>
                             <div className="container-fluid">
                                 <div className="row">
@@ -15,14 +15,14 @@ class Intro extends Component {
                                         <div className="slider-text-inner js-fullheight">
                                             <div className="desc">
                                                 <h1>Hello! <br />I'm Jayakiran</h1>
-                                                    <p><a className="btn btn-primary btn-learn">Resume <i className="icon-download4"></i></a></p>
+                                                    <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1n2ZDhjrKAYRDf3caEvnCkBvQxAWRA9mY/view?usp=sharing">Resume <i className="icon-download4"></i></a></p>
                                                 </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </li>
-                        <li style={{backgroundImage: "url(images/img_bg_2.jpg)"}}>
+                        <li style={{backgroundImage: "url(images/img_bg_6.jpg)"}}>
                             <div className="overlay"></div>
                             <div className="container-fluid">
                                 <div className="row">
