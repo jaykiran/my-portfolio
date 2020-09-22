@@ -15,7 +15,7 @@ class Intro extends Component {
                                         <div className="slider-text-inner js-fullheight">
                                             <div className="desc">
                                                 <h1>Hello! <br />I'm Jayakiran</h1>
-                                                    <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1n2ZDhjrKAYRDf3caEvnCkBvQxAWRA9mY/view?usp=sharing">Resume <i className="icon-download4"></i></a></p>
+                                                    <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1mFoulq7GEC8xiN6TJoOXMMzqfH5IZlzC/view?usp=sharing">Resume <i className="icon-download4"></i></a></p>
                                                 </div>
                                         </div>
                                     </div>
