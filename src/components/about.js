@@ -38,7 +38,7 @@ class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Web Development</h3>
-                                        <p>I have an Experience in building Websites and Web apps using HTML, CSS, JavaScript and Reactjs.</p>
+                                        <p>I have Experience building Web apps using HTML, CSS, JavaScript and React.</p>
                                     </div>
                                 </div>
                             </div>
@@ -50,7 +50,7 @@ class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Mobile App Development</h3>
-                                        <p>I have an Experience in building Mobile Applications using React-Native cross platform framework.</p>
+                                        <p>I have Experience building Mobile Apps using React-Native cross platform framework.</p>
                                     </div>
                                 </div>
                             </div>
@@ -61,7 +61,7 @@ class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Ds & Algos</h3>
-                                        <p>Although coming from the Electronics background, I have good grasp over fundamental concepts of DSA.</p>
+                                        <p>Although coming from ECE background, I have good grasp over concepts of DSA.</p>
                                     </div>
                                 </div>
                             </div>

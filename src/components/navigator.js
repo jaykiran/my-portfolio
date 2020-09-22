@@ -10,7 +10,7 @@ class Navigator extends Component {
                         <div className="text-center">
                             <div className="author-img" style={{backgroundImage: 'url(images/abouttt.jpg)'}} />
                             <h1 id="colorlib-logo"><a href="index.html">Jayakiran Guntuku</a></h1>
-                            <span className="position">Former Research Intern | <br /> Web & Android Developer | <br />Graduate from <a href="https://iiitn.ac.in/">IIIT Nagpur</a> </span>
+                            <span className="position">Former Research Intern | <br /> Web & Android Developer </span>
                             {/* <span className="position">Graduate from <a href="https://iiitn.ac.in/">IIIT Nagpur</a></span> */}
                         </div>
                         <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -38,9 +38,9 @@ class Navigator extends Component {
                                 <li><a href="https://www.linkedin.com/in/jayakiran-guntuku-3b5a23131/"><i class="icon-linkedin2"></i></a></li>
                             </ul>
                             <br />
-                            <p>
+                            {/* <p>
                                 Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br> 
-                            </p>
+                            </p> */}
                         </div>
                     </aside>
                 </div>
