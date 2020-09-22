@@ -12,22 +12,26 @@ class Projects extends Component {
                                 <h2 className="colorlib-heading animate-box">Recent Work</h2>
                             </div>
                         </div>
-                        <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+                        {/* <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                             <div className="col-md-12">
-                                <p className="work-menu"><span><a href="#" className="active">Graphic Design</a></span> <span><a href="#">Web Design</a></span> <span><a href="#">Software</a></span> <span><a href="#">Apps</a></span></p>
+                                <p className="work-menu"><span><a href="webapp" className="active">Web Apps</a></span> <span><a href="mobileapp">Mobile Apps</a></span> <span><a href="software">Software</a></span></p>
                             </div>
-                        </div>
+                        </div> */}
                         <div className="row">
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                                 <div className="project" style={{backgroundImage: "url(images/img-1.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 01</a></h3>
-                                            <span>Website</span>
+                                            <h3><a href="https://github.com/jaykiran/my-portfolio">My portfolio App</a></h3>
+                                            <span>Web Application</span>
                                             <p className="icon">
-                                                <span><a href="#"><i className="icon-share3"></i></a></span>
-                                                <span><a href="#"><i className="icon-eye"></i> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span>
+                                                <span><a href="https://github.com/jaykiran/my-portfolio"><i className="icon-github"></i> Github</a></span>
+                                                {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
+                                                <span style={{marginLeft: '25rem'}}> HTML </span> 
+                                                <span> CSS </span>
+                                                <span> JavaScript </span>
+                                                <span> React </span>
                                             </p>
                                         </div>
                                     </div>
@@ -37,12 +41,15 @@ class Projects extends Component {
                                 <div className="project" style={{backgroundImage: "url(images/img-2.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 02</a></h3>
-                                            <span>Animation</span>
+                                            <h3><a href="https://github.com/jaykiran/ChatApp">Chat Application</a></h3>
+                                            <span>Mobile Application</span>
                                             <p className="icon">
-                                                <span><a href="#"><i className="icon-share3"></i></a></span>
-                                                <span><a href="#"><i className="icon-eye"></i> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span>
+                                                <span><a href="https://github.com/jaykiran/ChatApp"><i className="icon-github"></i> Github</a></span>
+                                                {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
+                                                <span style={{marginLeft: '20rem'}}> JavaScript </span> 
+                                                <span> React-native CLI </span>
+                                                <span> Firebase </span>
                                             </p>
                                         </div>
                                     </div>
@@ -52,12 +59,15 @@ class Projects extends Component {
                                 <div className="project" style={{backgroundImage: "url(images/img-3.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 03</a></h3>
-                                            <span>Illustration</span>
+                                            <h3><a href="https://github.com/jaykiran/youtube_clone">Youtube Clone</a></h3>
+                                            <span>Mobile Application</span>
                                             <p className="icon">
-                                                <span><a href="#"><i className="icon-share3"></i></a></span>
-                                                <span><a href="#"><i className="icon-eye"></i> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span>
+                                                <span><a href="https://github.com/jaykiran/youtube_clone"><i className="icon-github"></i></a> Github</span>
+                                                {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
+                                                <span style={{marginLeft: '22rem'}}> JavaScript </span> 
+                                                <span> Expo CLI </span>
+                                                <span> Google API </span>
                                             </p>
                                         </div>
                                     </div>
@@ -67,12 +77,15 @@ class Projects extends Component {
                                 <div className="project" style={{backgroundImage: "url(images/img-4.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 04</a></h3>
-                                            <span>Application</span>
+                                            <h3><a href="https://github.com/jaykiran/slack_chat-application">DevChat</a></h3>
+                                            <span>Web Application</span>
                                             <p className="icon">
-                                                <span><a href="#"><i className="icon-share3"></i></a></span>
-                                                <span><a href="#"><i className="icon-eye"></i> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span>
+                                                <span><a href="https://github.com/jaykiran/slack_chat-application"><i className="icon-github"></i> Github </a></span>
+                                                <span><a href="https://github.com/jaykiran/slack_chat-application"><i className="icon-code"></i> On-Progress </a></span>
+                                                {/* <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
+                                                <span style={{marginLeft: '13rem'}}> JavaScript </span> 
+                                                <span> React </span>
+                                                <span> Semantic UI </span>
                                             </p>
                                         </div>
                                     </div>
@@ -82,12 +95,15 @@ class Projects extends Component {
                                 <div className="project" style={{backgroundImage: "url(images/img-5.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 05</a></h3>
-                                            <span>Graphic, Logo</span>
+                                            <h3><a href="software"> Real time Weather Forecasting </a></h3>
+                                            <span>Software</span>
                                             <p className="icon">
-                                                <span><a href="#"><i className="icon-share3"></i></a></span>
-                                                <span><a href="#"><i className="icon-eye"></i> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span>
+                                                <span><a href="https://github.com/jaykiran/Weather_forecasting_using_python"><i className="icon-github"></i> Github </a></span>
+                                                {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
+                                                <span style={{marginLeft: '22rem'}}> Python </span> 
+                                                <span> Tkinter </span>
+                                                <span> API </span>
                                             </p>
                                         </div>
                                     </div>
@@ -97,12 +113,15 @@ class Projects extends Component {
                                 <div className="project" style={{backgroundImage: "url(images/img-6.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 06</a></h3>
-                                            <span>Web Design</span>
+                                            <h3><a href="https://github.com/jaykiran/Face-Recognition-Attendance-System">Face Recognition Attendance System</a></h3>
+                                            <span>Software</span>
                                             <p className="icon">
-                                                <span><a href="#"><i className="icon-share3"></i></a></span>
-                                                <span><a href="#"><i className="icon-eye"></i> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span>
+                                                <span><a href="https://github.com/jaykiran/Face-Recognition-Attendance-System"><i className="icon-github"></i> Github </a></span>
+                                                {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                                <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
+                                                <span style={{marginLeft: '22rem'}}> Python </span> 
+                                                <span> Tkinter </span>
+                                                <span> OpenCV </span>
                                             </p>
                                         </div>
                                     </div>
@@ -111,7 +130,7 @@ class Projects extends Component {
                         </div>
                         <div className="row">
                             <div className="col-md-12 animate-box">
-                                <p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload"></i></a></p>
+                                <p><a href="https://github.com/jaykiran?tab=repositories" className="btn btn-primary btn-lg btn-load-more">View more <i className="icon-reload"></i></a></p>
                             </div>
                         </div>
                     </div>
