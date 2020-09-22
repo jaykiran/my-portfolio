@@ -23,7 +23,7 @@ class Contact extends Component {
                                         <i className="icon-mail"></i>
                                     </div>
                                     <div className="colorlib-text">
-                                        <p><a href="#">jaikiranjay@gmail.com</a></p>
+                                        <p><a href="mailto:jaikiranjay@gmail.com">jaikiranjay@gmail.com</a></p>
                                     </div>
                                 </div>
                                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">

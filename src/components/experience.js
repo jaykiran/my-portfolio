@@ -36,7 +36,7 @@ class Experience extends Component {
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="#">Mentee at PClub Summer of Code</a> <span>June 2020 - Aug 2020</span></h2>
+                                        <h2><a href="#experience">Mentee at PClub Summer of Code</a> <span>June 2020 - Aug 2020</span></h2>
                                         <p>
                                             Due to this Pandemic Situation, Most of the People lost their jobs. People like Professionals(who have a knowledge on computers & have skills) can get a job through websites like Naukri, linkedin and many more. But the Blue Collar Workers(people lives on daily wages) cannot lead a comfortable life. Our motive is to design a Portal for those Blur collars to get a job and live life with dignity.
                                             <br />For that Purpose, we are designing a Android application using React-Native as tech stack.
@@ -51,7 +51,7 @@ class Experience extends Component {
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="#">Research Intern at Tsecond Generation Technology Pvt Ltd</a> <span>July 2019 - Dec 2019</span></h2>
+                                        <h2><a href="#experience">Research Intern at Tsecond Generation Technology Pvt Ltd</a> <span>July 2019 - Dec 2019</span></h2>
                                         <p>
                                             Developed an IOT device comes with RFID door accessed Security System which captures the Real time behavior of Refrigerators Freezers, stores the data to cloud and raises the alert for unusual behavior in Refrigerators.
                                             <br />Developed a Testing Setup for the Fluid Gauging Device E- Funnel which can capture the Fuel filling at certain intervals and also can capture the Continuous Fuel filling to any range at different angles of E-Funnel.
@@ -67,7 +67,7 @@ class Experience extends Component {
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="#">Summer Intern at RINL Steel Plant</a> <span>July 2018 - Aug 2018</span></h2>
+                                        <h2><a href="#experience">Summer Intern at RINL Steel Plant</a> <span>July 2018 - Aug 2018</span></h2>
                                         <p>
                                             Worked on different types of telecommunication technologies <br />- Broadband Technology, IP - Networking. <br /> Also studied about the inter Communication Channels from one plant to other plant inside the industry
                                         </p>
@@ -81,7 +81,7 @@ class Experience extends Component {
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="#">Industrial Trainee at BSNL</a> <span>June 2018 - July 2018</span></h2>
+                                        <h2><a href="#experience">Industrial Trainee at BSNL</a> <span>June 2018 - July 2018</span></h2>
                                         <p>The Training was Based on understanding the methods of communication in rural and urban areas using Optical fibres through underground cables. Also studied about Structure & Management of Database for different sectors.</p>
                                     </div>
                                     </div>
