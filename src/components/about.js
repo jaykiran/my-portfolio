@@ -13,9 +13,9 @@ class About extends Component {
                                         <div className="about-desc">
                                             <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
-                                            <p>Hello! I'm Jayakiran from Srikakulam District, Andhra Pradesh. <br />I have Completed my Bachelors from <a href="https://iiitn.ac.in/">IIIT Nagpur</a> in Electronics and Communication Engineering (2016 - 2020)</p>
+                                            <p>Hello! I'm Jayakiran from Andhra Pradesh. <br />I did my Bachelors from <a href="https://iiitn.ac.in/">IIIT Nagpur</a> in Electronics (2016 - 2020)</p>
                                             <p>
-                                                I'm Primarly interested in Frontend Developemnt and Mobile App development using cross platform frameworks.
+                                                I'm Primarly interested in Frontend Web and Mobile App development using cross platform frameworks.
                                             </p>
                                         </div>
                                     </div>
