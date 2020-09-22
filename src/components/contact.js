@@ -9,14 +9,15 @@ class Contact extends Component {
                         <div className="row">
                             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                                 {/* <span className="heading-meta">Get in Touch</span> */}
-                                <h2 className="colorlib-heading">Contact</h2>
+                                <h2 className="colorlib-heading">Get In Touch</h2>
                             </div>
                         </div>
                         <div className="row">
-                            <div className="col-md-5">
+                            {/* <div className="col-md-5"> */}
                                 <p>
                                     My inbox is always open. Whether you have a question or just want to say hello, 
-                                    I'll try my best to get back to you. Feel free to connect with me on social media!</p>
+                                    I'll try my best to get back to you. <br /> Feel free to connect with me on social media!
+                                </p>
                                 
                                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
                                     <div className="colorlib-icon">
@@ -42,8 +43,16 @@ class Contact extends Component {
                                         <p><a href="https://www.linkedin.com/in/jayakiran-guntuku-3b5a23131/">LinkedIn</a></p>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="col-md-7 col-md-push-1">
+                                <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+                                    <div className="colorlib-icon">
+                                        <i className="icon-instagram"></i>
+                                    </div>
+                                    <div className="colorlib-text">
+                                        <p><a href="https://www.instagram.com/i_am._.jay/">Instagram</a></p>
+                                    </div>
+                                </div>
+                            {/* </div> */}
+                            {/* <div className="col-md-7 col-md-push-1">
                                 <div className="row">
                                     <div className="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
                                         <form action="">
@@ -66,7 +75,7 @@ class Contact extends Component {
                                     </div>
                                     
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
 			    </section>

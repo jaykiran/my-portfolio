@@ -22,7 +22,7 @@ class Projects extends Component {
                                 <div className="project" style={{backgroundImage: "url(images/img-1.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="https://github.com/jaykiran/my-portfolio">My portfolio App</a></h3>
+                                            <h3><a href="https://jaykiran-portfolio.netlify.app/">My portfolio App</a></h3>
                                             <span>Web Application</span>
                                             <p className="icon">
                                                 <span><a href="https://github.com/jaykiran/my-portfolio"><i className="icon-github"></i> Github</a></span>
@@ -74,10 +74,10 @@ class Projects extends Component {
                                 </div>
                             </div>
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-                                <div className="project" style={{backgroundImage: "url(images/img-4.jpg)"}}>
+                                <div className="project" style={{backgroundImage: "url(images/img-7.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="https://github.com/jaykiran/slack_chat-application">DevChat</a></h3>
+                                            <h3><a href="https://react-slack-clone-v1.netlify.app/">DevChat</a></h3>
                                             <span>Web Application</span>
                                             <p className="icon">
                                                 <span><a href="https://github.com/jaykiran/slack_chat-application"><i className="icon-github"></i> Github </a></span>
@@ -110,7 +110,7 @@ class Projects extends Component {
                                 </div>
                             </div>
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-                                <div className="project" style={{backgroundImage: "url(images/img-6.jpg)"}}>
+                                <div className="project" style={{backgroundImage: "url(images/img-8.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
                                             <h3><a href="https://github.com/jaykiran/Face-Recognition-Attendance-System">Face Recognition Attendance System</a></h3>
