@@ -8,7 +8,7 @@ class Experience extends Component {
                     <div class="colorlib-narrow-content">
                         <div class="row">
                             <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                                <span class="heading-meta">Experience</span>
+                                {/* <span class="heading-meta">Experience</span> */}
                                 <h2 class="colorlib-heading animate-box">Work Experience</h2>
                             </div>
                         </div>

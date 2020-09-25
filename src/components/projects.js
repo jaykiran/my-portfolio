@@ -8,7 +8,7 @@ class Projects extends Component {
                     <div className="colorlib-narrow-content">
                         <div className="row">
                             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                                <span className="heading-meta">My Work</span>
+                                {/* <span className="heading-meta">My Work</span> */}
                                 <h2 className="colorlib-heading animate-box">Recent Work</h2>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ class Projects extends Component {
                                             <h3><a href="https://github.com/jaykiran/youtube_clone">Youtube Clone</a></h3>
                                             <span>Mobile Application</span>
                                             <p className="icon">
-                                                <span><a href="https://github.com/jaykiran/youtube_clone"><i className="icon-github"></i></a> Github</span>
+                                                <span><a href="https://github.com/jaykiran/youtube_clone"><i className="icon-github"></i> Github </a></span>
                                                 {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
                                                 <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
                                                 <span style={{marginLeft: '22rem'}}> JavaScript </span> 

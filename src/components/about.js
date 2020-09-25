@@ -11,8 +11,8 @@ class About extends Component {
                                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                                     <div className="col-md-12">
                                         <div className="about-desc">
-                                            <span className="heading-meta">About Me</span>
-                                            <h2 className="colorlib-heading">Who Am I?</h2>
+                                            {/* <span className="heading-meta">About Me</span> */}
+                                            <h2 className="colorlib-heading">About Me</h2>
                                             <p>Hello! I'm Jayakiran from Andhra Pradesh. <br />I did my Bachelors in Electronics from <a href="https://iiitn.ac.in/">IIIT Nagpur</a> (2016 - 2020)</p>
                                             <p>
                                                 I'm Primarly interested in Frontend Web and Mobile App development using cross platform frameworks.
@@ -26,7 +26,7 @@ class About extends Component {
                     <div className="colorlib-narrow-content">
                         <div className="row">
                             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                                <span className="heading-meta">What I do?</span>
+                                {/* <span className="heading-meta">What I do?</span> */}
                                 <h2 className="colorlib-heading">Here are some of my expertise</h2>
                             </div>
                         </div>
