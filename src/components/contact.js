@@ -32,7 +32,7 @@ class Contact extends Component {
                                         <i className="icon-github"></i>
                                     </div>
                                     <div className="colorlib-text">
-                                        <p><a href="https://github.com/jaykiran">Github</a></p>
+                                        <p><a href="https://github.com/jaykiran" target="_blank" rel="noopener noreferrer">Github</a></p>
                                     </div>
                                 </div>
                                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
@@ -40,7 +40,7 @@ class Contact extends Component {
                                         <i className="icon-linkedin2"></i>
                                     </div>
                                     <div className="colorlib-text">
-                                        <p><a href="https://www.linkedin.com/in/jayakiran-guntuku-3b5a23131/">LinkedIn</a></p>
+                                        <p><a href="https://www.linkedin.com/in/jayakiran-guntuku-3b5a23131/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
                                     </div>
                                 </div>
                                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">

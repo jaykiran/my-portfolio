@@ -25,7 +25,7 @@ class Projects extends Component {
                                             <h3><a href="https://jaykiran-portfolio.netlify.app/">My portfolio App</a></h3>
                                             <span>Web Application</span>
                                             <p className="icon">
-                                                <span><a href="https://github.com/jaykiran/my-portfolio"><i className="icon-github"></i> Github</a></span>
+                                                <span><a href="https://github.com/jaykiran/my-portfolio" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i> Github</a></span>
                                                 {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
                                                 <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
                                                 <span style={{marginLeft: '25rem'}}> HTML </span> 
@@ -41,10 +41,10 @@ class Projects extends Component {
                                 <div className="project" style={{backgroundImage: "url(images/img-2.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="https://github.com/jaykiran/ChatApp">Chat Application</a></h3>
+                                            <h3><a href="https://github.com/jaykiran/ChatApp" target="_blank" rel="noopener noreferrer">Chat Application</a></h3>
                                             <span>Mobile Application</span>
                                             <p className="icon">
-                                                <span><a href="https://github.com/jaykiran/ChatApp"><i className="icon-github"></i> Github</a></span>
+                                                <span><a href="https://github.com/jaykiran/ChatApp" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i> Github</a></span>
                                                 {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
                                                 <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
                                                 <span style={{marginLeft: '20rem'}}> JavaScript </span> 
@@ -59,10 +59,10 @@ class Projects extends Component {
                                 <div className="project" style={{backgroundImage: "url(images/img-3.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="https://github.com/jaykiran/youtube_clone">Youtube Clone</a></h3>
+                                            <h3><a href="https://github.com/jaykiran/youtube_clone" target="_blank" rel="noopener noreferrer">Youtube Clone</a></h3>
                                             <span>Mobile Application</span>
                                             <p className="icon">
-                                                <span><a href="https://github.com/jaykiran/youtube_clone"><i className="icon-github"></i> Github </a></span>
+                                                <span><a href="https://github.com/jaykiran/youtube_clone" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i> Github </a></span>
                                                 {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
                                                 <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
                                                 <span style={{marginLeft: '22rem'}}> JavaScript </span> 
@@ -77,11 +77,11 @@ class Projects extends Component {
                                 <div className="project" style={{backgroundImage: "url(images/img-7.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="https://react-slack-clone-v1.netlify.app/">DevChat</a></h3>
+                                            <h3><a href="https://react-slack-clone-v1.netlify.app/" target="_blank" rel="noopener noreferrer">DevChat</a></h3>
                                             <span>Web Application</span>
                                             <p className="icon">
-                                                <span><a href="https://github.com/jaykiran/slack_chat-application"><i className="icon-github"></i> Github </a></span>
-                                                <span><a href="https://github.com/jaykiran/slack_chat-application"><i className="icon-code"></i> On-Progress </a></span>
+                                                <span><a href="https://github.com/jaykiran/slack_chat-application" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i> Github </a></span>
+                                                <span><a href="https://github.com/jaykiran/slack_chat-application" target="_blank" rel="noopener noreferrer"><i className="icon-code"></i> On-Progress </a></span>
                                                 {/* <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
                                                 <span style={{marginLeft: '13rem'}}> JavaScript </span> 
                                                 <span> React </span>
@@ -98,7 +98,7 @@ class Projects extends Component {
                                             <h3><a href="software"> Real time Weather Forecasting </a></h3>
                                             <span>Software</span>
                                             <p className="icon">
-                                                <span><a href="https://github.com/jaykiran/Weather_forecasting_using_python"><i className="icon-github"></i> Github </a></span>
+                                                <span><a href="https://github.com/jaykiran/Weather_forecasting_using_python" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i> Github </a></span>
                                                 {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
                                                 <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
                                                 <span style={{marginLeft: '22rem'}}> Python </span> 
@@ -113,10 +113,10 @@ class Projects extends Component {
                                 <div className="project" style={{backgroundImage: "url(images/img-8.jpg)"}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="https://github.com/jaykiran/Face-Recognition-Attendance-System">Face Recognition Attendance System</a></h3>
+                                            <h3><a href="https://github.com/jaykiran/Face-Recognition-Attendance-System" target="_blank" rel="noopener noreferrer">Face Recognition Attendance System</a></h3>
                                             <span>Software</span>
                                             <p className="icon">
-                                                <span><a href="https://github.com/jaykiran/Face-Recognition-Attendance-System"><i className="icon-github"></i> Github </a></span>
+                                                <span><a href="https://github.com/jaykiran/Face-Recognition-Attendance-System" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i> Github </a></span>
                                                 {/* <span><a href="#"><i className="icon-eye"></i> 100</a></span>
                                                 <span><a href="#"><i className="icon-heart"></i> 49</a></span> */}
                                                 <span style={{marginLeft: '22rem'}}> Python </span> 
@@ -130,7 +130,7 @@ class Projects extends Component {
                         </div>
                         <div className="row">
                             <div className="col-md-12 animate-box">
-                                <p><a href="https://github.com/jaykiran?tab=repositories" className="btn btn-primary btn-lg btn-load-more">View more <i className="icon-reload"></i></a></p>
+                                <p><a href="https://github.com/jaykiran?tab=repositories" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg btn-load-more">View more <i className="icon-reload"></i></a></p>
                             </div>
                         </div>
                     </div>

@@ -36,7 +36,7 @@ class Experience extends Component {
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="https://drive.google.com/file/d/177mJEVvuz44f2yfwcjFRUBJYu3Oes4kL/view?usp=sharing">Mentee at PClub Summer of Code</a> <span>June 2020 - Aug 2020</span></h2>
+                                        <h2><a href="https://drive.google.com/file/d/177mJEVvuz44f2yfwcjFRUBJYu3Oes4kL/view?usp=sharing" target="_blank" rel="noopener noreferrer">Mentee at PClub Summer of Code</a> <span>June 2020 - Aug 2020</span></h2>
                                         <p>
                                             Worked as a Team member to develop an Opensource Project called OpenJobApp.<br/>
                                             OpenJobApp helps bluecollar workers/Daily Wagers to find job in this pandemic situations.<br />
@@ -58,7 +58,7 @@ class Experience extends Component {
                                             <br /> - Developed a Mechanical Testing Setup for E- Funnel to capture the continous fuel filling any range at different angles.
                                             <br /> - Automated the Continuous Data Analysis reports of Fluid Gauging Device E-Funnel using python & Tableau.
                                             <br /> - Designed a Dashboard UI to monitor the real time data of an IoT device. <br />
-                                            click here to view the <a href="https://drive.google.com/file/d/1-QfJ7Yfdx1e6HOAc8I9n-3s2dBGGkLW7/view?usp=sharing">report</a> 
+                                            {/* click here to view the <a href="https://drive.google.com/file/d/1-QfJ7Yfdx1e6HOAc8I9n-3s2dBGGkLW7/view?usp=sharing">report</a>  */}
                                         </p>
                                     </div>
                                     </div>
@@ -90,7 +90,7 @@ class Experience extends Component {
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="https://drive.google.com/file/d/1BmFF5qrKeCBwUe_OKpFKi2pFOdkMfzEd/view?usp=sharing">Industrial Trainee at BSNL</a> <span>June 2018 - July 2018</span></h2>
+                                        <h2><a href="https://drive.google.com/file/d/1BmFF5qrKeCBwUe_OKpFKi2pFOdkMfzEd/view?usp=sharing" target="_blank" rel="noopener noreferrer">Industrial Trainee at BSNL</a> <span>June 2018 - July 2018</span></h2>
                                         <p>
                                             One month Training Based on Understanding the methods of Communication in rural and Urban areas through
                                             Optical fibre mode of communication.<br />
