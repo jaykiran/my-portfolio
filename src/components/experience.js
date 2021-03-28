@@ -23,7 +23,7 @@ class Experience extends Component {
                                     </div>
 
                                     <div class="timeline-label">
-                                        <h2><a href="#">Software Developer (API) - Purplle</a> <span>Nov 2020 - Present</span></h2>
+                                        <h2><a href="https://www.purplle.com/" target="_blank" rel="noopener noreferrer">Software Developer (API) - Purplle</a> <span>Nov 2020 - Present</span></h2>
                                         <p>
                                             Currently working as an API developer at one of the India's Beauty Destination Purplle.com
                                             <li>Involved in Handling features like Listing Pages, Filters API and Desktop Navigation</li>
@@ -56,7 +56,7 @@ class Experience extends Component {
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="#experience">Research Intern - Tsecond Generation Technology Pvt Ltd</a> <span>July 2019 - Dec 2019</span></h2>
+                                        <h2><a href="https://www.tsecond.in/" target="_blank" rel="noopener noreferrer">Research Intern - Tsecond Generation Technology Pvt Ltd</a> <span>July 2019 - Dec 2019</span></h2>
                                         <p>
                                             <li>Developed an IOT device to capture the Real time behavior of Refrigerators & Freezers, it will store the data to cloud and raises the alert for unusual behavior in Refrigerators.</li>
                                             <li>Developed a Mechanical Testing Setup for E- Funnel to capture the continuous fuel filling any range at different angles.</li>
@@ -74,7 +74,7 @@ class Experience extends Component {
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="#exp">Summer Intern - RINL Steel Plant</a> <span>July 2018 - Aug 2018</span></h2>
+                                        <h2><a href="https://www.vizagsteel.com/index.asp" target="_blank" rel="noopener noreferrer">Summer Intern - RINL Steel Plant</a> <span>July 2018 - Aug 2018</span></h2>
                                         <p>
                                             Worked on different types of Communication from different divisons inside the plant.<br/>
                                             <li>Loudspeaker intercom systems (LMMM & WRM)</li>
