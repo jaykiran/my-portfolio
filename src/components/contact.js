@@ -43,14 +43,14 @@ class Contact extends Component {
                                         <p><a href="https://www.linkedin.com/in/jayakiran-guntuku-3b5a23131/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
                                     </div>
                                 </div>
-                                <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+                                {/* <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
                                     <div className="colorlib-icon">
                                         <i className="icon-instagram"></i>
                                     </div>
                                     <div className="colorlib-text">
                                         <p><a href="https://www.instagram.com/i_am._.jay/">Instagram</a></p>
                                     </div>
-                                </div>
+                                </div> */}
                             {/* </div> */}
                             {/* <div className="col-md-7 col-md-push-1">
                                 <div className="row">

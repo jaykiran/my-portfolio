@@ -9,7 +9,7 @@ import Experience from './components/experience';
 import Intro from './components/intro';
 import Projects from './components/projects';
 import Skills from './components/skills';
-// import Blog from './components/blog';
+import Blog from './components/blog';
 // import Certifications from './components/certifications';
 
 
@@ -27,8 +27,8 @@ class App extends Component {
                   {/* <Education></Education> */}
                   <Skills></Skills>
                   <Projects></Projects>
-                  {/* <Blog></Blog>
-                  <Certifications></Certifications> */}
+                  <Blog></Blog>
+                  {/* <Certifications></Certifications> */}
                   <Contact></Contact>
                 </div>
             </div>

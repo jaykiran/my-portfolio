@@ -10,7 +10,7 @@ class Navigator extends Component {
                         <div className="text-center">
                             <div className="author-img" style={{backgroundImage: 'url(images/abouttt.jpg)'}} />
                             <h1 id="colorlib-logo"><a href="index.html">Jayakiran Guntuku</a></h1>
-                            <span className="position">Former Research Intern | <br /> Web & Android Developer </span>
+                            <span className="position">Software Developer</span>
                             {/* <span className="position">Graduate from <a href="https://iiitn.ac.in/">IIIT Nagpur</a></span> */}
                         </div>
                         <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -22,8 +22,9 @@ class Navigator extends Component {
                                     {/* <li><a href="#education" data-nav-section="education">Education</a></li> */}
                                     <li><a href="#skills" data-nav-section="skills">Skills</a></li>
                                     <li><a href="#work" data-nav-section="work">Projects</a></li>
-                                    {/* <li><a href="#blog" data-nav-section="blog">Blog</a></li>
-                                    <li><a href="#certifications" data-nav-section="certifications">Certifications</a></li>
+                                    {/* <li><a href="https://jayakiran.hashnode.dev/" target="_blank" rel="noopener noreferrer">Blog</a></li> */}
+                                    <li><a href="#blog" data-nav-section="blog">Blog</a></li>
+                                    {/*<li><a href="#certifications" data-nav-section="certifications">Certifications</a></li>
                                     <li><a href="#organizations" data-nav-section="organizations">Organizations</a></li> */}
                                     <li><a href="#contact" data-nav-section="contact">Contact</a></li>
                                     
@@ -34,7 +35,7 @@ class Navigator extends Component {
                             <ul>
                                 <li><a href="https://www.facebook.com/jai.kiran.121/"><i class="icon-facebook2"></i></a></li>
                                 <li><a href="https://twitter.com/Jay34641135"><i class="icon-twitter2"></i></a></li>
-                                <li><a href="https://www.instagram.com/i_am._.jay/"><i class="icon-instagram"></i></a></li>
+                                {/* <li><a href="https://www.instagram.com/i_am._.jay/"><i class="icon-instagram"></i></a></li> */}
                                 <li><a href="https://www.linkedin.com/in/jayakiran-guntuku-3b5a23131/"><i class="icon-linkedin2"></i></a></li>
                             </ul>
                             <br />

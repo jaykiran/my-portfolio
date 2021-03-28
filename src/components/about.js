@@ -13,11 +13,13 @@ class About extends Component {
                                         <div className="about-desc">
                                             {/* <span className="heading-meta">About Me</span> */}
                                             <h2 className="colorlib-heading">About Me</h2>
-                                            <p>Hello! I'm Jayakiran from Andhra Pradesh. <br />I did my Bachelors in Electronics from <a href="https://iiitn.ac.in/" target="_blank" rel="noopener noreferrer">IIIT Nagpur</a> (2016 - 2020)</p>
-                                            <p>
-                                                I'm Primarly interested in Frontend Web and Mobile App development using cross platform frameworks.
-                                            </p>
                                         </div>
+                                            <p>Hey Peeps! I'm glad that you are here 😁 <br />
+                                                Let me Introduce myself, I'm Jayakiran working as a software developer in India's #1 Beauty Destination Purplle.com<br />
+                                                I did my Bachelors in Electronics from <a href="https://iiitn.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Information Technology, Nagpur.</a><br />
+                                                I'm Primarily interested in Developing Fullstack Web and Mobile Applications using cross platform frameworks.<br />
+                                                Feel free to connect with me in social media for any freelancing opportunities 🙂
+                                            </p>
                                     </div>
                                 </div>
                             </div>
@@ -38,7 +40,7 @@ class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Web Development</h3>
-                                        <p>I have Experience building Web apps using HTML, CSS, JavaScript and React.</p>
+                                        <p>I've hands-on experience in developing Restful fullstack Web applications using node.js and React framework.</p>
                                     </div>
                                 </div>
                             </div>
@@ -50,7 +52,7 @@ class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Mobile App Development</h3>
-                                        <p>I have Experience building Mobile Apps using React-Native cross platform framework.</p>
+                                        <p>I've hands-on experience in developing fullstack mobile applications with interactive UI using React-Native cross platform framework.</p>
                                     </div>
                                 </div>
                             </div>
@@ -60,8 +62,8 @@ class About extends Component {
                                         <i className="icon-data"></i>
                                     </span>
                                     <div className="desc">
-                                        <h3>Ds & Algos</h3>
-                                        <p>Although coming from ECE background, I have good grasp over concepts of DSA.</p>
+                                        <h3>Content Creation</h3>
+                                        <p>I personally love exploring different technologies and creating meaningful content on them through <a href="https://jayakiran.hashnode.dev/" target="_blank" rel="noopener noreferrer">Blogs</a></p>
                                     </div>
                                 </div>
                             </div>
