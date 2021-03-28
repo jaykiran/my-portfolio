@@ -14,11 +14,11 @@ class About extends Component {
                                             {/* <span className="heading-meta">About Me</span> */}
                                             <h2 className="colorlib-heading">About Me</h2>
                                         </div>
-                                            <p>Hey Peeps! I'm glad that you are here 😁 <br />
+                                            <p>Hey Peeps! I'm glad that you are here :p <br />
                                                 Let me Introduce myself, I'm Jayakiran working as a software developer in India's #1 Beauty Destination Purplle.com<br />
                                                 I did my Bachelors in Electronics from <a href="https://iiitn.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Information Technology, Nagpur.</a><br />
                                                 I'm Primarily interested in Developing Fullstack Web and Mobile Applications using cross platform frameworks.<br />
-                                                Feel free to connect with me in social media for any freelancing opportunities 🙂
+                                                Feel free to connect with me in social media for any freelancing opportunities :)
                                             </p>
                                     </div>
                                 </div>

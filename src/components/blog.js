@@ -39,7 +39,7 @@ class Blog extends Component {
                                     <div className="desc">
                                         <span><small>March 15, 2021 </small> | <small> UNIT TESTING </small></span>  {/*| <small> <i className="icon-bubble3"></i> 4</small> */}
                                         <h3><a href="https://jayakiran.hashnode.dev/getting-started-with-unit-testing" target="_blank" rel="noopener noreferrer">Getting Started With Unit Testing</a></h3>
-                                        <p>This is my first ever article😁, and I would like to discuss the Importance of Unit Testing and why we have to do it.</p>
+                                        <p>This is my first ever article, and I would like to discuss the Importance of Unit Testing and why we have to do it.</p>
                                     </div>
                                 </div>
                             </div>
