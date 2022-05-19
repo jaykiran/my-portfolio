@@ -9,8 +9,8 @@ class Navigator extends Component {
                     <aside id="colorlib-aside" className="border js-fullheight">
                         <div className="text-center">
                             <div className="author-img" style={{backgroundImage: 'url(images/my-bitmoji.png)'}} />
-                            <h1 id="colorlib-logo"><a href="index.html">Jayakiran Guntuku</a></h1>
-                            <span className="position">Software Developer</span>
+                            <h1 id="colorlib-logo"><a href="index.html">Jayakiran</a></h1>
+                            <span className="position">Backend Engineer</span>
                             {/* <span className="position">Graduate from <a href="https://iiitn.ac.in/">IIIT Nagpur</a></span> */}
                         </div>
                         <nav id="colorlib-main-menu" role="navigation" className="navbar">
